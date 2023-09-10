@@ -2,6 +2,9 @@ import time
 import pandas as pd
 import numpy as np
 
+#Create dictionary of city data - 1st time for practicing
+#Create dictionary of city data - 2nd time for practicing
+#Create dictionary of city data - 3rd time for practicing
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }

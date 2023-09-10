@@ -1,0 +1,37 @@
+From 79f4ec352253386283f8ffeead00b4775d7ce021 Mon Sep 17 00:00:00 2001
+From: Duong Le Dinh Duy <dinhduydt02@gmail.com>
+Date: Sun, 10 Sep 2023 22:36:58 +0700
+Subject: 2nd change of README file
+
+
+diff --git a/README.md b/README.md
+index 0086bfc..8d86620 100644
+--- a/README.md
++++ b/README.md
+@@ -1,17 +1,20 @@
+ >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+ 
+ ### Date created
+-Include the date you created this project and README file.
++10/09/2023
+ 
+ ### Project Title
+-Replace the Project Title
++pdsnd_github
+ 
+ ### Description
+-Describe what your project is about and what it does
++Project uses Python to explore data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington.
+ 
+ ### Files used
+-Include the files used
++.gitignore <br>
++bikeshare <br>
++README <br>
++data file (.csv file): chicago, new_york_city, washington
+ 
+-### Credits
+-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+ 
++### Credits
++Udacity has a wonderful requirement to practice Python and have some basic knowledge about bike share systems in the US.
