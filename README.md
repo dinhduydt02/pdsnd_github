@@ -10,8 +10,8 @@ pdsnd_github
 Project uses Python to explore data related to bike share systems for three major cities in the United States: Chicago, New York City, and Washington.
 
 ### Files used
-.gitignore <br>
-bikeshare <br>
+.gitignore (is used to ignore files) <br>
+bikeshare (python project code to analyze the bike share system in the US) <br>
 README <br>
 data file (.csv file): chicago, new_york_city, washington
 
